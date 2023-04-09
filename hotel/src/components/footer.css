@@ -1,0 +1,27 @@
+.label-text {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.85rem;
+}
+
+.label-header {
+    /* color: rgba(255, 255, 255, 0.8);
+    font-size: 1.2rem;
+    font-weight: 400; */
+
+    font-weight: normal;
+    color: #fff;
+    font-size: 24px;
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+.icon-container {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+}
+
+.social-media-icon {
+    font-size: 30px;
+    color: #fff;
+    padding: 1px;
+    margin: 5px;
+}

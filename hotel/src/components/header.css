@@ -1,0 +1,9 @@
+.container-nav {
+    height: 8vh;
+    background-color: var(--black-color);
+}
+
+.header-title {
+    margin-left: 1.25rem !important;
+    font-size: 1.2rem;
+}

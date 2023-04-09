@@ -1,0 +1,25 @@
+.about-title {
+    color: #1c1c1c;
+    font-size: 80px;
+    letter-spacing: -3px;
+    font-weight: 400;
+    /* font-family: lato, sans-serif, "Helvetica Neue",system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji; */
+
+    font-family: 'Taviraj', serif;
+    font-style: italic;
+
+    line-height: 1.1;
+
+    /* width: 100%;
+    top: 0;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    position: relative; */
+}
+
+.about-subtitle {
+    font-family: 'Taviraj', serif;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
